@@ -2,6 +2,8 @@
 
 This is a robot for creating texts in the form of the Batman 2020 logo
 
+This is a training project for the [PhiloLearn](https://www.youtube.com/philolearn?sub_confirmation=1) YouTube channel.
+
 ![cover](./src/assets/img/cover.jpg)
 
 
