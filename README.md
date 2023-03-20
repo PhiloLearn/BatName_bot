@@ -27,5 +27,5 @@ $ python main.python
 ```
 </br>
 
->My suggestion is to create a virtual environment first before halving the dependencies and then step in to install the dependencies.
+>My suggestion is to create a virtual environment first before installing the dependencies and then step in to install the dependencies.
 
